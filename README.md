@@ -1,4 +1,4 @@
-# 🧮 Expression Parser in Rust
+# Expression Parser in Rust
 
 A modular, high-performance arithmetic expression parser and evaluator written in Rust. This project tokenises user-inputted math expressions, constructs an abstract syntax tree (AST), and computes the result using recursive descent parsing.
 
@@ -6,7 +6,7 @@ It showcases compiler design fundamentals, including lexical analysis, syntax pa
 
 ---
 
-## 🚀 Features
+## Features
 
 - Tokenisation of arithmetic expressions (lexer)
 - AST generation with recursive descent parsing
@@ -17,7 +17,7 @@ It showcases compiler design fundamentals, including lexical analysis, syntax pa
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 expression-parser-rust/
 ├── src/
 │   ├── main.rs
